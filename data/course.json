@@ -4,7 +4,20 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
   "legacy_uid": "9fea103a-92e1-9200-7641-dda09d9671af",
   "instructors": {
     "content": [
