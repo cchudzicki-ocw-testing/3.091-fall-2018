@@ -13,9 +13,9 @@ uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 
 Below, Professor Jeffrey Grossman describes various aspects of how he teaches _3.091 Introduction to Solid-State Chemistry_.
 
-- \[Interview: “Why this Matters” Moments\]({{< baseurl >}}/pages/instructor-insights/interview-why-this-matters)
-- \[Interview: The Value of Hands-On Learning\]({{< baseurl >}}/pages/instructor-insights/interview-hands-on-learning)
-- \[Interview: Goodie Bags\]({{< baseurl >}}/pages/instructor-insights/interview-goodie-bags)
+- {{% resource_link b7b2766c-e267-d389-0bc2-1fcc7255656f "Interview: “Why this Matters” Moments" %}}
+- {{% resource_link 3ef053f7-f4e8-9d36-fea4-7410a47f1c2b "Interview: The Value of Hands-On Learning" %}}
+- {{% resource_link 24883e67-2898-17cd-6cbe-046c4c3dc01d "Interview: Goodie Bags" %}}
 
 {{< simplecast 8fafc1bc-9010-424a-b211-543b0cd186d6 >}}
 
