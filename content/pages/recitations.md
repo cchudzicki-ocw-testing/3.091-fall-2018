@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: 0f7c1c3a-35b7-6533-8887-33acdac458e1
+video_metadata:
+  youtube_id: null
 ---
 
 [Recitation 1: Balancing Reactions, Yield, and Limiting Reagents (PDF)]({{< baseurl >}}/resources/mit3_091f18_rec1)

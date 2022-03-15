@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Goodie Bag Tutorials and Problems
 uid: 67bc8622-1cd7-acb5-5aa4-caa98556d6a0
+video_metadata:
+  youtube_id: null
 ---
 
 Goodie Bags (GB’s) are mini-experiment kits that allow students to explore a key concept and solve related problems. [Learn more about what inspired Prof. Grossman to create GBs for the students in 3.091 in the Instructor Insights section]({{< baseurl >}}/pages/instructor-insights/interview-goodie-bags).

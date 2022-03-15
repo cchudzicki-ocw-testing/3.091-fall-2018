@@ -13,4 +13,6 @@ resourcetype: Document
 title: 'Extra Notes for Lecture 24: From Arrhenius to Vacancy Formation - Intro to
   Solid State Chemistry - Fall 2018'
 uid: e74f5d32-73ce-626a-9d6c-88e3ee09cde8
+video_metadata:
+  youtube_id: null
 ---

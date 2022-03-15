@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Practice Problems
 uid: bff80681-8388-78d6-9ce8-1723cf37df0e
+video_metadata:
+  youtube_id: null
 ---
 
 The practice problems included here (unless otherwise notes) are compiled from: B.A. Averill and P. Eldridge, _[General Chemistry: Principles, Patterns, and Applications.](https://open.umn.edu/opentextbooks/textbooks/general-chemistry-principles-patterns-and-applications)_ (License: CC BY-NC-SA. Source: Open Textbook Library.)

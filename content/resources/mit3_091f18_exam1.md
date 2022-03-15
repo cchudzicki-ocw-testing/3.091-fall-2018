@@ -11,4 +11,6 @@ parent_uid: fa2efb82-0261-4fe8-ce81-3105145f7d8c
 resourcetype: Document
 title: Exam 1 - Intro to Solid State Chemistry - Fall 2018
 uid: 4cbf6f99-4e34-b9cb-e263-0348a59a6cba
+video_metadata:
+  youtube_id: null
 ---

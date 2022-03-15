@@ -13,4 +13,6 @@ resourcetype: Document
 title: Supplemental Handout on Fick's Second Law & Diffusion  - Intro to Solid State
   Chemistry - Fall 2018
 uid: 190df79c-e4ce-995b-a81a-9d6ebae5ca88
+video_metadata:
+  youtube_id: null
 ---

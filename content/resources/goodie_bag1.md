@@ -15,4 +15,6 @@ parent_uid: 24883e67-2898-17cd-6cbe-046c4c3dc01d
 resourcetype: Image
 title: Goodie_Bag1.png
 uid: f587b411-2a73-1774-e031-21863b7aa0db
+video_metadata:
+  youtube_id: null
 ---

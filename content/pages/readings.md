@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: a3e7d35c-a442-1355-9e11-8dc7fdaf3aa0
+video_metadata:
+  youtube_id: null
 ---
 
 The purpose of the **CHEMATLAS** (**_C_**_omprising **H**andy **E**xtra **M**aterials: **A**ll **T**he **L**ectures **A**s **S**ummaries_) is to serve as a guide and resource that gives you a quick overview of each lecture. For each lecture, there is:

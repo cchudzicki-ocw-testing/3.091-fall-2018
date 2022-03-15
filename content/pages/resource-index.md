@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index
 uid: d0905faf-2533-b54e-70ef-3d22d818c691
+video_metadata:
+  youtube_id: null
 ---
 
 This resource index gives users access to most of the course resources in a single location.

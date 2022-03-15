@@ -12,4 +12,6 @@ parent_uid: a3e7d35c-a442-1355-9e11-8dc7fdaf3aa0
 resourcetype: Document
 title: MIT3_091F18_ChemATLAS_2.pdf
 uid: 0afd94b8-d0d1-bed4-75c3-d3275e1e226f
+video_metadata:
+  youtube_id: null
 ---

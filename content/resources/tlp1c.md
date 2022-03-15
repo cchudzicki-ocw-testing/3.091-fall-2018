@@ -15,4 +15,6 @@ parent_uid: b7b2766c-e267-d389-0bc2-1fcc7255656f
 resourcetype: Image
 title: TLP1c.jpg
 uid: c1971092-1433-2be2-f849-41770e58fc17
+video_metadata:
+  youtube_id: null
 ---

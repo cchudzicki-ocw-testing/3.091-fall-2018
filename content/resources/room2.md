@@ -15,4 +15,6 @@ parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 resourcetype: Image
 title: room2.jpg
 uid: 101e0cb4-2eb3-d41e-aa74-04ea6cf626a6
+video_metadata:
+  youtube_id: null
 ---

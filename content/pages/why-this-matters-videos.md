@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Why This Matters
 uid: d49e8bd7-c1b7-98fb-514e-71379622e45c
+video_metadata:
+  youtube_id: null
 ---
 
 "Why This Matters" is a brief portion of each lecture focusing on how the topic covered relates to important innovations (and sometimes unexpected consequences) in science and in life, demonstrating real world applications, and suggesting creative directions for research.

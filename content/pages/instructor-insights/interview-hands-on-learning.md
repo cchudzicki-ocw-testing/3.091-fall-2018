@@ -8,6 +8,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 title: 'Interview: The Value of Hands-on Learning'
 uid: 3ef053f7-f4e8-9d36-fea4-7410a47f1c2b
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Prof. Jeffrey Grossman discusses the emphasis on hands-on practice that underlies MIT’s motto of_ mens et manus _(“mind and hand”)_.

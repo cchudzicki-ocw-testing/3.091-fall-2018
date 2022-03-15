@@ -12,4 +12,6 @@ resourcetype: Document
 title: "Practice Problem D \u2013 3.091 Introduction to Solid-State Chemistry \u2013\
   \ Fall 2018"
 uid: ff240bba-1fdc-5687-9e86-354bd22be4b4
+video_metadata:
+  youtube_id: null
 ---

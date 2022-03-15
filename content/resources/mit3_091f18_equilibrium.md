@@ -13,4 +13,6 @@ resourcetype: Document
 title: Extra Notes on Equilibrium (Lecture 28) - Intro to Solid-State Chemistry -
   Fall 2018
 uid: 0de26165-d2c9-24f4-a46e-7cb1e3118c23
+video_metadata:
+  youtube_id: null
 ---

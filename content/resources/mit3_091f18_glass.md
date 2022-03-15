@@ -12,4 +12,6 @@ parent_uid: a3e7d35c-a442-1355-9e11-8dc7fdaf3aa0
 resourcetype: Document
 title: Extra Notes on Glass - Intro to Solid State Chemistry - Fall 2018
 uid: 69344468-f494-4d6b-cbf4-c13dccf8fbd3
+video_metadata:
+  youtube_id: null
 ---

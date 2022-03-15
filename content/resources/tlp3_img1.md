@@ -15,4 +15,6 @@ parent_uid: 24883e67-2898-17cd-6cbe-046c4c3dc01d
 resourcetype: Image
 title: TLP3_img1.png
 uid: d71536da-af99-5c79-08e9-103c4b7535a1
+video_metadata:
+  youtube_id: null
 ---

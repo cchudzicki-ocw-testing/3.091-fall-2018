@@ -15,4 +15,6 @@ parent_uid: 01630360-4a0e-e006-7f75-e170bc9a60d9
 resourcetype: Image
 title: room3.jpg
 uid: 66b53428-3b8b-f4a8-a233-a7434562b0fb
+video_metadata:
+  youtube_id: null
 ---
