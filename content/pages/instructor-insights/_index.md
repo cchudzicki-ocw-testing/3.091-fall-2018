@@ -29,7 +29,7 @@ _Hands-on Chemistry Learning in 3.091_ from the 2018 Festival of Learning
 
 {{< resource cec83251-a49f-6f0a-38da-f358089aaf0c >}}
 
-Video excerpt of Professor Grossman's giving his closing remarks to the students in the final lecture:
+Video excerpt of Professor Grossman's closing remarks to the students in the final lecture:
 
 {{< resource d168dc5a-dc1c-40a4-67ba-d0a7c86a6533 >}}
 
