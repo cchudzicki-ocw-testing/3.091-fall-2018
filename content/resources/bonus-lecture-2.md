@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Bonus Lecture 2: The Chemistry of Batteries'
 uid: 1d85659c-145f-1c83-83ac-79b3bb5a0061
 video_files:
