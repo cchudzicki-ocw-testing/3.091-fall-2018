@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture covers the Bohr model and electronic transitions.
 
 Instructor: Jeffrey C. Grossman
+

@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture continues the discussion of ionization energy.
 
 Instructor: Jeffrey C. Grossman
+

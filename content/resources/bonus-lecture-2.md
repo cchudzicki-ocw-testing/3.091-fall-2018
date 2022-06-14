@@ -27,3 +27,4 @@ video_metadata:
 Description: Discussion of energy storage, electrical storage, and the chemistry of batteries.
 
 Instructor: Jeffrey C. Grossman
+

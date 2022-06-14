@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture covers the introduction of impurities to increase the density of charge carriers.
 
 Instructor: Jeffrey C. Grossman
+

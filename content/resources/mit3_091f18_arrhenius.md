@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e74f5d3273ce626a9d6c88e3ee09cde8_MIT3_091F18_Arrhenius.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e74f5d3273ce626a9d6c88e3ee09cde8_MIT3_091F18_Arrhenius.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

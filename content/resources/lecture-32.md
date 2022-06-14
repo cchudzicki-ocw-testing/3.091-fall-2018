@@ -27,3 +27,4 @@ video_metadata:
 Description: Discussion of polymers, radical polymerization, and condensation polymerization.
 
 Instructor: Jeffrey C. Grossman
+

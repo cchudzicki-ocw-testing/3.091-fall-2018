@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture covers steady state and non steady state diffusion.
 
 Instructor: Jeffrey C. Grossman
+

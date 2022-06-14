@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e45ee1b9d23d51fdddeb3ebd819c2174_AbyrF4VtlYY.srt
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e45ee1b9d23d51fdddeb3ebd819c2174_AbyrF4VtlYY.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -27,3 +27,4 @@ video_metadata:
 Description: The arrangement of bonds plays an important role in determining the properties of crystals.
 
 Instructor: Jeffrey C. Grossman
+

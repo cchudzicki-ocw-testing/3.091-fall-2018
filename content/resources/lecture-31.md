@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture reviews concepts covered in the exam.
 
 Instructor: Jeffrey C. Grossman
+

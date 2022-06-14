@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture explores the Bronsted-Lowry acids, bases and neutralization.
 
 Instructor: Jeffrey C. Grossman
+

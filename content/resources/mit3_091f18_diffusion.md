@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/190df79ce4ce995ba81a9d6ebae5ca88_MIT3_091F18_Diffusion.pdf
+file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/190df79ce4ce995ba81a9d6ebae5ca88_MIT3_091F18_Diffusion.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

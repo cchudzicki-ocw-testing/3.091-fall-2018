@@ -27,3 +27,4 @@ video_metadata:
 Description: This lecture covers conductivity of electrons in semiconductors.
 
 Instructor: Jeffrey C. Grossman
+
