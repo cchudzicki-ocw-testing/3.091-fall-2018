@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes exams and quizzes for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Exams and Quizzes

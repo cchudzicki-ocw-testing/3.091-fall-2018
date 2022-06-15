@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A list of practice problems in the textbook are provided here.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Practice Problems

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, excerpts pulled from the lectures explain how chemistry
+  is connected to the questions surrounding us.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Why This Matters

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Prof. Jeffrey Grossman discusses the emphasis on hands-on\
+  \ practice that underlies MIT\u2019s motto of mens et manus (\u201Cmind and hand\u201D\
+  )."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
