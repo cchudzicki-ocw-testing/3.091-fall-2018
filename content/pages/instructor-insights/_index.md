@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes information about the course and interview with
+  the instructor about pedagogy.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
