@@ -147,7 +147,7 @@ Topics
 - Hume-Rothery rules
 - Line defects
 - Glasses
-- Tg
+- T<sub>g</sub>
 - Cooling curves
 - Tempering
 - Network modifiers
